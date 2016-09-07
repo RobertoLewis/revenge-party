@@ -31,12 +31,12 @@
 * [BetterExplained Cheat Sheet](http://betterexplained.com/cheatsheet/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
 * [Functional Programming in JavaScript](https://youtu.be/BMUiFMZr7vk)
-* [Udemy]
-* [Frontend Masters]
-* [Treehouse]
+* [Udemy](https://www.udemy.com/)
+* [Frontend Masters](https://frontendmasters.com/courses/)
+* [Treehouse](https://teamtreehouse.com/library/q:java)
 * [Trello Board]
 * [Apptracker spreadsheet]
-* [Coursera]
-* [TripleByte]
-* [Interview Cake]
-* [MKS toy problems]
+* [Coursera](https://www.coursera.org/)
+* [TripleByte](https://triplebyte.com/)
+* [Interview Cake](https://www.interviewcake.com/)
+* [MKS toy problems](https://challenge.makerpass.com/)
